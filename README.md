@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Meier Bada
 
-<!--
-**MeierBada/MeierBada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas (8.º ciclo)
 
-Here are some ideas to get you started:
+## 💻 Intereses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Programación en Python
+* 📊 Análisis y procesamiento de datos
+* 🧠 Inteligencia Artificial aplicada a problemas reales
+* 📈 Visualización e interpretación de datos
+
+## 🚀 Sobre mí
+
+Me apasiona la tecnología y el aprendizaje continuo. Actualmente me encuentro fortaleciendo mis conocimientos y habilidades en programación, análisis de datos e inteligencia artificial, explorando nuevas herramientas y metodologías para la resolución de problemas mediante soluciones innovadoras.
+
+## 📚 Objetivos
+
+* Fortalecer mis habilidades en desarrollo de software.
+* Profundizar en análisis de datos e inteligencia artificial.
+* Participar en proyectos que impulsen mi crecimiento profesional.
